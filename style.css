@@ -155,7 +155,7 @@
   overflow: hidden;
   position: relative;
   width: 100%;
-  background-image: url(img/woman\ ceo.jpg);
+  background-image: url(img/hehehehe.webp);
   background-attachment: fixed;
   background-size: cover;
   -moz-background-size: cover;
@@ -336,3 +336,7 @@ img {
     width: 80%;
   }
 /* Images end */  
+
+.pretty-font {
+    font-family: "Rowdies", sans-serif;
+}
